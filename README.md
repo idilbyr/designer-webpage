@@ -26,16 +26,5 @@ The `index.html` file provides a basic foundation for your landing page. Here's 
         * Emphasized text within the `h2` using `<span>` with class="underline".
     * Two buttons with the class `btn` for actions (e.g., "Let's chat" and "See our work").
 
-### How to Use
 
-1. **Create `styles.css` (Optional):** 
-    Place your CSS styles in the `styles.css` file to customize the appearance of the page.
-
-2. **Add Content:**
-    Add more HTML elements within the `<body>` section to create the rest of your landing page (sections, images, forms, etc.).
-
-3. **Implement Functionality (Optional):**
-    Add JavaScript code (in a separate file) to handle button clicks, animations, and other interactive elements.
-
-**Note:** This is a starting point. You'll need to build out the rest of the page with additional HTML elements, CSS styling, and possibly JavaScript functionality.
 
